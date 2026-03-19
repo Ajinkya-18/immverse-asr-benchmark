@@ -1,0 +1,4 @@
+Model,Mean WER,Mean Inference Time (s),Mean Memory Used (MB)
+wav2vec2,1.0825,0.0319,5767.93
+whisper,0.4082,0.6998,5815.81
+parakeet,0.2381,0.2447,5736.27
