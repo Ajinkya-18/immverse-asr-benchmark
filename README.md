@@ -1,4 +1,4 @@
-# ASR Models Benchmarking — Customer Support Voice AI Assistant
+# ASR Models Benchmarking - Customer Support Voice AI Assistant
 
 A comparative study of Speech-to-Text models for noisy, real-world audio in a customer support call environment.
 
