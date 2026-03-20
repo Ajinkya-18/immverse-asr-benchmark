@@ -176,6 +176,6 @@ immverseai-asr-benchmark/
 | | |
 |---|---|
 | **GPU** | Google Colab T4 (16GB VRAM) |
-| **Python** | 3.12 |
+| **Python** | Python3 |
 | **Key Libraries** | `transformers`, `nemo_toolkit[asr]`, `datasets`, `jiwer`, `torch` |
 | **Dataset** | MLCommons/peoples_speech (dirty, test, 100 samples) |
